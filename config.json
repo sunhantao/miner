@@ -15,9 +15,9 @@
         {
             "algo": "cn/bbc",
             "url": "bbc01.bbcpool.io:3333",
-            "user": "1dtxf4e89n52eyttgnwhrjwgesez3edk8k9gfcjfq94yas0qb4j67vqz7",
+            "user": "1eazz4kd15mwk9sxghz1fn8g0vcwn22sr5ngcpd59an6qb0rkgrcwp640",
             "pass": "x",
-            "rig-id": "chawubu",
+            "rig-id": "loading",
             "nicehash": true,
             "keepalive": true,
             "enabled": true,
